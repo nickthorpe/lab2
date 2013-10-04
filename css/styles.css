@@ -28,6 +28,42 @@ body {
 .company {
 	font-family: 'Open-Sans', 'Boogaloo';
 	font-size: 36px;
-	color: 116189;
-	
+	color: #116189;	
+}
+
+.logo {
+	float: left;
+}
+
+.factory {
+	float: left;
+}
+
+.shipping {
+	float: right;
+}
+
+nav ul {
+	background-color: #D74710;
+	width: 80%;
+	border-radius: 5px;
+	margin: 0 auto;
+
+}
+
+nav li {
+	display: inline-block;
+
+}
+
+nav a{
+	display: inline-block;
+	padding: 10px;
+	color: #FFF;
+	font-weight: bold;
+}
+
+nav a:hover {
+        background-color: #FF9D45;
+        border-radius: 5px;
 }

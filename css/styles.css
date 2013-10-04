@@ -13,41 +13,54 @@ body {
 	padding: 10px;
 }
 
+p {
+	padding:10px;
+}
+
 .content-box{
 	width:80%;
 	background-color:#FFF;
 	margin: 0 auto;
 	box-shadow: 2px 2px 6px #555;
+	padding: 10px;
 }
 
 .motto{
 	font-size: 120%;
 	font-style: italic;
+	padding: 10px;
 }
 
 .company {
 	font-family: 'Open-Sans', 'Boogaloo';
 	font-size: 36px;
 	color: #116189;	
+	padding-top: 10px;
+
 }
 
 .logo {
 	float: left;
+	padding: 10px;
 }
 
 .factory {
 	float: left;
+	padding:10px;
 }
 
 .shipping {
 	float: right;
+	padding:10px;
 }
 
 nav ul {
 	background-color: #D74710;
-	width: 80%;
+	width: 100%;
 	border-radius: 5px;
 	margin: 0 auto;
+	clear:left;
+	margin-bottom:10px;
 
 }
 
@@ -61,9 +74,18 @@ nav a{
 	padding: 10px;
 	color: #FFF;
 	font-weight: bold;
+	text-decoration: none;
 }
 
 nav a:hover {
         background-color: #FF9D45;
         border-radius: 5px;
+}
+
+.footer {
+	margin-top:50px;
+	border-style-width:1px;
+	border-top: solid;
+	border-top-color: #707070;
+	font-style:italic;
 }

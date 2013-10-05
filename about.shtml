@@ -20,7 +20,7 @@
 
 			<!--#include virtual="inc/header.html" -->
 			
-			<h1 class = headings>Our Story</h1>
+			<h1 class="headings">Our Story</h1>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -34,33 +34,33 @@
 				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-			<h2 class = headings>Our Team</h2>
+			<h2 class ="headings">Our Team</h2>
 
 			
-			<p class = leaders><img class = personpic src="img/person.jpg" alt = "person icon"> Amy Chen, President</p>
+			<p class ="leaders"><img class = personpic src="img/person.jpg" alt="person icon"> Amy Chen, President</p>
 			
-			<p class = description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			<p class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 			consequat.</p>
 
-			<p class = leaders><img class = personpic src="img/person.jpg" alt = "person icon"> Rochelle Jones, CIO</p>
+			<p class="leaders"><img class = personpic src="img/person.jpg" alt = "person icon"> Rochelle Jones, CIO</p>
 			
-			<p class = description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			<p class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 			consequat.</p>
 
-			<p class = leaders><img class = personpic src="img/person.jpg" alt = "person icon"> Michael Matsui, VP Operations</p>
+			<p class="leaders"><img class = personpic src="img/person.jpg" alt="person icon"> Michael Matsui, VP Operations</p>
 			
-			<p class = description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			<p class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 			consequat.</p>
 
-			<p class = leaders><img class = personpic src="img/person.jpg" alt = "person icon"> Thorfin Skullsplitter, HR Director</p>
+			<p class="leaders"><img class = personpic src="img/person.jpg" alt="person icon"> Thorfin Skullsplitter, HR Director</p>
 			
-			<p class = description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			<p class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 			consequat.</p>

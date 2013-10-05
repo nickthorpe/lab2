@@ -99,3 +99,27 @@ nav a:hover {
 .copyright {
 	font-style:italic;
 }
+
+.headings {
+	font-size: 36px;
+	color: #116189;	
+	padding-top: 10px;
+	font-weight: bold;
+}
+
+.leaders {
+	font-size: 20px;
+	color: #116189;	
+	padding-top: 10px;
+	font-weight: bold;
+	padding-bottom:0px;
+}
+
+.description{
+	margin-top:0px;
+	margin-bottom: 0px; 
+}
+
+.personpic{
+	float:left;
+}

@@ -18,19 +18,7 @@
 	<body>
 		<div class="content-box">
 			
-			<img class = "logo" src="img/logo.png" alt= "logo icon">
-			
-			<p class = "company">Widgets-R-Us</p>
-			
-			<p class = "motto">Making High Quality Widgets since 1991</p>
-			
-			<nav>
-				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="about.html">About</a></li>
-				</ul>
-
-			</nav>
+			<!--#include virtual="inc/header.html" -->
 
 			<img class = logo src="img/factory.jpg" alt = "factory floor">
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -62,9 +50,7 @@
 			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 		
-			<p class = footer>We ship for free in the Continental United States!  Call or <a href="mailto:sales@widgetsrus.com">e-mail </a>us to place an order today.</p>
-
-			<p class = copyright>&#169 2013 Widgets-R-Us <a href="https://github.com/nickthorpe/lab2">Repository</a></p>
+			<!--#include virtual="inc/footer.html" -->
 
 
 			<p></p>

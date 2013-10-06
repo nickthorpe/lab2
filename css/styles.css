@@ -5,6 +5,7 @@
 /* reset CSS file to reset browser default styling to a consistent starting point */
 @import url(reset.css);
 
+/*Main formatting of body of site*/
 body {
 	background-image: url(../img/texture-light.png);
 	background-repeat: repeat;
@@ -14,10 +15,12 @@ body {
 	font-style:;
 }
 
+/*Putting padding on all new paragraphs*/
 p {
 	padding:10px;
 }
 
+/*Formatting for the content box (sizing, color, shadow, etc*/
 .content-box{
 	width:80%;
 	background-color:#FFF;
@@ -26,12 +29,14 @@ p {
 	padding: 10px;
 }
 
+/*Formatting company motto*/
 .motto{
 	font-size: 120%;
 	font-style: italic;
 	padding: 10px;
 }
 
+/*Formatting company name*/
 .company {
 	font-family: 'Open-Sans', 'Boogaloo';
 	font-size: 36px;
@@ -40,16 +45,19 @@ p {
 
 }
 
+/*Formatting for company logo, factory floor*/
 .logo {
 	float: left;
 	padding: 10px;
 }
 
+/*Formatting for shipping picture*/
 .shipping {	
 	float: right;
 	padding:10px;
 }
 
+/*Formatting for nav bar*/
 nav ul {
 	background-color: #D74710;
 	width: 100%;
@@ -59,11 +67,13 @@ nav ul {
 
 }
 
+/*Formatting for sub-elements of nav bar*/
 nav li {
 	display: inline-block;
 
 }
 
+/*Formatting for links on nav bar*/
 nav a{
 	display: inline-block;
 	padding: 10px;
@@ -72,11 +82,13 @@ nav a{
 	text-decoration: none;
 }
 
+/*Changing links on nav bar when hovered*/
 nav a:hover {
         background-color: #FF9D45;
         border-radius: 5px;
 }
 
+/*Formatting for hover*/
 .footer {
 	margin-top:50px;
 	border-style: solid;
@@ -85,17 +97,22 @@ nav a:hover {
 	font-style:italic;
 }
 
+/*Getting rid of underline for e-mail link*/
 .footer a:link {
 	text-decoration:none;
 }
+
+/*Bringing back e-mail link underline when hovered*/
 .footer a:hover{
 	text-decoration:underline;
 };
 
+/*Let's make the copyright italic*/
 .copyright {
 	font-style:italic;
 }
 
+/*formatting for headers on about page*/
 .headings {
 	font-size: 36px;
 	color: #116189;	
@@ -103,6 +120,7 @@ nav a:hover {
 	font-weight: bold;
 }
 
+/*Formatting the leaders names and title*/
 .leaders {
 	font-size: 20px;
 	color: #116189;	
@@ -111,10 +129,12 @@ nav a:hover {
 	padding-bottom:0px;
 }
 
+/*Getting rid of new paragraph underneath leaders descriptions*/
 .description{ 
 	padding-top:0px;
 }
 
+/*Wrapping for person pics... don't want padding though*/
 .personpic{
 	float:left;
 }

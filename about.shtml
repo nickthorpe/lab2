@@ -19,6 +19,8 @@
 		<div class="content-box">
 
 			<!--#include virtual="inc/header.html" -->
+
+			<!-- Begin Body of About Page, 2 Headings w/information about the company and its leaders-->
 			
 			<h1 class="headings">Our Story</h1>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -37,6 +39,7 @@
 			<h2 class ="headings">Our Team</h2>
 
 			
+			<!-- each leader has a picture and a short description-->
 			<p class ="leaders"><img class = personpic src="img/person.jpg" alt="person icon"> Amy Chen, President</p>
 			
 			<p class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

@@ -18,7 +18,7 @@
 	<body>
 		<div class="content-box">
 			
-			<!--#include virtual="inc/inc/header.html" -->
+			<!--#include virtual="inc/header.html" -->
 
 			<img class="logo" src="img/factory.jpg" alt = "factory floor">
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
